@@ -1,0 +1,15 @@
+[MouseSettings]
+AccelMode=QuakeLive
+Sensitivity=1
+Acceleration=0.02
+SensitivityCap=1.7
+SpeedCap=0
+Offset=10
+Power=2
+Pre-ScaleX=1
+Pre-ScaleY=1
+Post-ScaleX=1
+Post-ScaleY=1
+AngleSnap=0
+Angle=0
+Enabled=1
