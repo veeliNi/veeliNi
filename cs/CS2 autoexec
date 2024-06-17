@@ -1,0 +1,8 @@
+alias "+boing" "+jump"; 
+alias "+ding" "-attack; -attack2". 
+alias "+dong" "-jump"; alias "+ding" "-attack; -attack2"; alias "+dong" "-jump 
+bind "alt" "+boing; +ding; +dong".
+
+bind "q" "rifle";
+alias rifle "slot1;bind "q" pistol";
+alias pistol "slot2;bind "q" "rifle";
